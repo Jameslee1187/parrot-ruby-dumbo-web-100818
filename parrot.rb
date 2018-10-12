@@ -1,4 +1,4 @@
-def parrot(quote)
-  quote = "Squawk!"
+def parrot
+  parrot = "Squawk!"
   parrot
 end
