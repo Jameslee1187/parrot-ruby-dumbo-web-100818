@@ -1,1 +1,1 @@
-def parrot(noise)
+def parrot("Squawk!")
